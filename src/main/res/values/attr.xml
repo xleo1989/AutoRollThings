@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AutoRollText">
+        <attr name="showLines" format="integer"/>
+        <attr name="rollTime" format="integer"/>
+    </declare-styleable>
+</resources>
